@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Inventory",
+  "description": "A high-performance, GSAP-animated inventory management dashboard featuring dark mode aesthetics, real-time analytics, and Gemini-powered smart insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
